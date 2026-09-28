@@ -1,0 +1,201 @@
+{
+  "entries": 987,
+  "words": 371,
+  "source_sha256": "4ef0b7db12f22db1ffb2c4bf71a57dd4c108e2a569584ae69434b7161c5aaf71",
+  "release_sha256": "3fbf9b7d71addebf4683c77b83a58e163c8814fdc01c063684fafc096ffd9576",
+  "base_sha256": "4c25b3eb677de425b7d3846ed2d10a125764749460a602d94e58ddd3f36b5b34",
+  "noncanonical": [],
+  "conflicts": [],
+  "same_translation_overlaps": [
+    [
+      "EUPB/STKAOEUFS",
+      "indecisive"
+    ],
+    [
+      "STKAOEUFS",
+      "decisive"
+    ]
+  ],
+  "star_checks": [
+    [
+      "EUPB/S*EFPBT",
+      "incentive",
+      "EUPB/SEFPBT",
+      [
+        [
+          "base",
+          "incessant"
+        ]
+      ]
+    ],
+    [
+      "EUPL/P*EFRT",
+      "imperative",
+      "EUPL/PEFRT",
+      [
+        [
+          "base",
+          "imperfect"
+        ]
+      ]
+    ],
+    [
+      "KO*FGT",
+      "cognitive",
+      "KOFGT",
+      [
+        [
+          "base",
+          "costing"
+        ]
+      ]
+    ],
+    [
+      "KPR*EFS",
+      "expressive",
+      "KPREFS",
+      [
+        [
+          "extension",
+          "compressive"
+        ]
+      ]
+    ],
+    [
+      "PHA*FS",
+      "massive",
+      "PHAFS",
+      [
+        [
+          "base",
+          "masses"
+        ]
+      ]
+    ],
+    [
+      "PHO*EF",
+      "motive",
+      "PHOEF",
+      [
+        [
+          "base",
+          "movie"
+        ]
+      ]
+    ],
+    [
+      "PO*FT",
+      "positive",
+      "POFT",
+      [
+        [
+          "base",
+          "posit"
+        ]
+      ]
+    ],
+    [
+      "PRAO*UFPLT",
+      "presumptive",
+      "PRAOUFPLT",
+      [
+        [
+          "base",
+          "improvement"
+        ]
+      ]
+    ],
+    [
+      "PRE/SR*EFPBT",
+      "preventative",
+      "PRE/SREFPBT",
+      [
+        [
+          "extension",
+          "preventive"
+        ]
+      ]
+    ],
+    [
+      "PRO*FGT",
+      "prerogative",
+      "PROFGT",
+      [
+        [
+          "base",
+          "profiting"
+        ]
+      ]
+    ],
+    [
+      "TKR*EUFT",
+      "derivative",
+      "TKREUFT",
+      [
+        [
+          "base",
+          "drift"
+        ]
+      ]
+    ],
+    [
+      "TPH*EFGT",
+      "negative",
+      "TPHEFGT",
+      [
+        [
+          "base",
+          "nesting"
+        ]
+      ]
+    ],
+    [
+      "TPH*FT",
+      "informative",
+      "TPH-FT",
+      [
+        [
+          "base",
+          "in fact"
+        ]
+      ]
+    ],
+    [
+      "PH*EUFS",
+      "missive",
+      "PHEUFS",
+      [
+        [
+          "base",
+          "misses"
+        ]
+      ]
+    ]
+  ],
+  "examples": {
+    "effective": {
+      "base": true,
+      "extension": true
+    },
+    "relative": {
+      "base": false,
+      "extension": true
+    },
+    "passive": {
+      "base": true,
+      "extension": true
+    },
+    "defensive": {
+      "base": true,
+      "extension": true
+    },
+    "instructive": {
+      "base": false,
+      "extension": true
+    },
+    "administrative": {
+      "base": true,
+      "extension": true
+    }
+  }
+}

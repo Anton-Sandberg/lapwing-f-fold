@@ -1,0 +1,22 @@
+# Local validation inputs and scratch files
+/validation-inputs/
+/work/
+lapwing-base*.json
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.bak
+
+# Operating system metadata and credentials
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+!.env.example
