@@ -2,6 +2,8 @@
 
 An unofficial Lapwing dictionary that uses right-hand `-F` to fold the final **/ɪv/** sound into the preceding stroke.
 
+The dictionary has 985 outlines for 371 words.
+
 ## The rule
 
 Add right-hand `-F` to the preceding stroke to write the final **/ɪv/** sound, often saving a separate `-ive` stroke.
