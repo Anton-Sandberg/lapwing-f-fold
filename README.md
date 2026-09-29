@@ -2,7 +2,7 @@
 
 An unofficial Lapwing dictionary that uses right-hand `-F` to fold the final **/ɪv/** sound into the preceding stroke.
 
-The dictionary has 985 outlines for 371 words.
+The dictionary has 968 outlines for 370 words.
 
 ## The rule
 
